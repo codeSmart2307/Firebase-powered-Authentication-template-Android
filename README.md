@@ -1,6 +1,15 @@
 # Auth boilerplate for Android powered by Firebase Auth
 
-### This boilerplate contains: A preloader screen, a login screen, a register screen and password reset services. 
+This boilerplate contains follwing core templates:
+- Preloader screen
+- Login screen
+- Register screen
+- Password reset services. 
 
-The authentication methods used are: Email and Password, Google Authentication and Facebook Authentication.
+The authentication methods used are: **Email and Password, Google Authentication and Facebook Authentication.**
+
+Technologies:
+- Android 
+- Firebase Auth Services 
+- Java
 
